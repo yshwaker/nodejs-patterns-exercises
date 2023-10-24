@@ -1,0 +1,2 @@
+error: this is an error
+info: this is a info msg
